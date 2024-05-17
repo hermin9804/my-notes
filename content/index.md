@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: mher's notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+**화면 크기를 조절하여 가로 비율로 보세요. 사이드바와 추가 콘텐츠를 확인할 수 있습니다.**

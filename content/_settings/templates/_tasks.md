@@ -1,3 +1,6 @@
+---
+publish: false
+---
 <%* 
 const folders = tp.file.folder(true).split('/'); 
 const parentFolderName = folders[folders.length - 1]; 

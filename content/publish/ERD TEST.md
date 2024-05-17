@@ -1,5 +1,5 @@
 ---
-draft: true
+publish: false
 생성일자: 2024-05-17
 tags:
 ---

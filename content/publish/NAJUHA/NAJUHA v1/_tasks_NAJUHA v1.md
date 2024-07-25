@@ -1,7 +1,0 @@
----
-publish: true
----
- 
-- [ ] #task 프로젝트 구조 정리
-- [ ] #task 백엔드 구조 정리
-- [ ] #task DB 설계 정리
